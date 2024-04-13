@@ -23,3 +23,8 @@ step 3:
 $git push
 
 Now all the changes are saved into the cloud/server.
+
+
+--> if you want to pull any cloud changes, use $git pull
+
+
