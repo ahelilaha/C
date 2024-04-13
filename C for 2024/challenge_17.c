@@ -4,6 +4,8 @@ void swap(int *ptr_a, int *ptr_b) {
     int c = *ptr_a;
     *ptr_a = *ptr_b;
     *ptr_b = c;
+    printf("\n inside swap --> after swap a = %d", *ptr_a);
+    printf("\n inside swap --> after swap b = %d", *ptr_b);
 }
 
 int main() {
